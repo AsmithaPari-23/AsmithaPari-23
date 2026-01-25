@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Asmitha P
+## Hi there 👋 It's me Asmitha Pari
 
 Information Technology Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
