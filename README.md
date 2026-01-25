@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Asmitha P
 
 Information Technology Engineering Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 - 🔭 Here's my [portfolio](http://127.0.0.1:5500/index.html)                                                 
 - 🌱 I’m currently learning Java,Dsa,Full-Stack Development,UI/UX Design
 - ⚡ I'm looking for help with Placements in FAANG
