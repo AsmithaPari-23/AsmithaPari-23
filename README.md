@@ -16,8 +16,8 @@ Information Technology Engineering Student
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-![Asmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Asmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&theme=dark)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Asmitha?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/u/MZgs04NUGX/)
 
-[![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmithaPari-23&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
