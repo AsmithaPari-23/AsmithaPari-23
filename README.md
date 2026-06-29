@@ -18,6 +18,6 @@ BTech Information Technology(IT)
 
 ![Asmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&theme=dark)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Asmitha?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/u/MZgs04NUGX/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Asmitha?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/u/Asmithapari/)
 
 [![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmithaPari-23&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
