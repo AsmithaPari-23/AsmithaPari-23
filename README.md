@@ -3,8 +3,7 @@
 BTech Information Technology(IT)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 - 🔭 Here's my [portfolio](https://asmithapari-23.github.io/Portfolio/)                                                 
-- 🌱 I’m currently learning Java,Dsa,Full-Stack Development,UI/UX Design
-- ⚡ I'm looking for help with Placements 
+- 🌱 I’m currently learning Javascript,Dsa,Mern-Stack Development,UI Design
 - ⚡ Ask me about Tech
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asmitha-p-261613268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/>
