@@ -2,7 +2,7 @@
 
 BTech Information Technology(IT)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
-- 🔭 Here's my [portfolio](https://asmithapari-23.github.io/Portfolio/)                                                 
+- 🔭 Here's my [portfolio](https://portfolio-pi-ashen-25.vercel.app/)                                                 
 - 🌱 I’m currently learning Javascript,Dsa,Mern-Stack Development,UI Design
 - ⚡ Ask me about Tech
 - Social Presence
