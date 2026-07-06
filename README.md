@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Asmitha Pari
 
-BTech Information Technology(IT)
+B.Tech Information Technology(IT)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 - 🔭 Here's my [portfolio](https://portfolio-pi-ashen-25.vercel.app/)                                                 
 - 🌱 I’m currently learning Javascript,Dsa,Mern-Stack Development,UI Design
@@ -17,6 +17,6 @@ BTech Information Technology(IT)
 
 ![Asmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&theme=dark)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Asmitha?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/u/Asmithapari/)
+[![Asmitha's Leetcode Stats](https://leetcard.jacoblin.cool/Asmitha?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/u/Asmithapari/)
 
 [![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmithaPari-23&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
