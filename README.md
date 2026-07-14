@@ -15,8 +15,19 @@ B.Tech Information Technology(IT)
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-![Asmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&theme=dark)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AsmithaPari-23&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmithaPari-23&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 [![Asmitha's Leetcode Stats](https://leetcard.jacoblin.cool/Asmithapari?theme=dark&font=Noto%20Sans%20Osmanya&ext=activity)](https://leetcode.com/u/Asmithapari/)
 
 [![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmithaPari-23&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
