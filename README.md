@@ -18,17 +18,11 @@ B.Tech Information Technology(IT)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmithaPari-23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AsmithaPari-23&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmithaPari-23&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+## 💻 LeetCode Stats
 [![Asmitha's Leetcode Stats](https://leetcard.jacoblin.cool/Asmithapari?theme=dark&font=Noto%20Sans%20Osmanya&ext=activity)](https://leetcode.com/u/Asmithapari/)
 
+## 🔥 Github Contribution Graph
 [![Asmitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsmithaPari-23&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
