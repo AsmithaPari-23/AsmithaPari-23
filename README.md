@@ -19,6 +19,7 @@ B.Tech Information Technology(IT)
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AsmithaPari-23&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ## 💻 LeetCode Stats
 [![Asmitha's Leetcode Stats](https://leetcard.jacoblin.cool/Asmithapari?theme=dark&font=Noto%20Sans%20Osmanya&ext=activity)](https://leetcode.com/u/Asmithapari/)
 
